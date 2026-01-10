@@ -25,12 +25,12 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "齐鲁工业大学 <br>（山东省科学院）"
   location         : "山东 济南"
-  employer         : "http://jsxb.scsc.cn/introlist_76/805.html" #"Qilu University of Techonology (Shandong Academy of Sciences)"
+  employer         : #"Qilu University of Techonology (Shandong Academy of Sciences)"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=zKutxzgAAAAJ"
   email            : "shuohan.liu@qlu.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Shuohan-Liu"
-  uri              : 
+  uri              : "http://jsxb.scsc.cn/introlist_76/805.html"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "shuohan-liu"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0000-0003-1000-2512"
   pinterest        :
@@ -161,6 +161,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
