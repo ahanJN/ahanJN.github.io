@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "刘朔晗"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "齐鲁工业大学（山东省科学院）"
+  bio              : "齐鲁工业大学 <br>（山东省科学院）"
   location         : "山东 济南"
   employer         : #"Qilu University of Techonology (Shandong Academy of Sciences)"
   pubmed           : 
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0001-9658-209X"
+  orcid            : "https://orcid.org/0000-0003-1000-2512"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -161,5 +161,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
