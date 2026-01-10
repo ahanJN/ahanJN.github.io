@@ -17,25 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将博士毕业于湖北武汉的 华中科技大学 机械科学与工程学院，我的导师是康宜华教授。本科毕业于四川成都的 四川大学 制造科学与工程学院（现机械工程学院）。包括合著，我已经发表 20+ 篇学术论文
+我毕业于英国兰卡斯特大学，师从IET Fellow倪强教授，深度参与多项EPSRC项目，期间获得2022年度国家优秀自费留学生奖学金（A类）。随后于2022年底至2024年初在加入英国华威大学副校长Carsten Maple教授领衔的网络安全团队，担任Research Fellow。2024年初返回兰卡斯特大学担任Senior Research Associate。2024年全职加入山东省计算中心（国家超级计算济南中心），齐鲁工业大学（山东省科学院），入选山东省泰山学者青年专家计划，获聘齐鲁工业大学（山东省科学院）齐鲁青创学者，目前主持多项纵向项目，包裹国家自然科学基金青年科学基金项目（C类）及山东省自然科学基金青年面上项目。在学术成果方面，研究聚焦于新能源汽车充电服务优化及场景迭代，包括车-车互充、车网互动及源网荷储一体化研究。于近五年在Sustainable Cities and Society、Energy、IEEE Transactions on Transportation Electrification等知名期刊发表论文20余篇，h-index为11，授权发明专利7项，参与制定国家标准3项，登记软件著作权1部，出版《智能网联汽车能量管理理论与应用》专著1部，并参编中英文教材各1部。
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
-我的研究领域包括：
-- 仪器仪表
-- 机械工程
-- 电磁无损检测
-- 漏磁检测
-- 涡流检测
-- 磁传感器
-- 无损检测装备开发
-  
-
+我的研究领域研究聚焦于新能源汽车充电服务优化及场景迭代，包括：
+- 充电服务协同优化
+- 无线充电协同调度
+- 车-车互充协同管理
+- 异步充电协同控制
+- 车-网互动协同优化
+- “源网荷储”一体化协同运行
 
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2016.06 - 2022.12*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 机械科学与工程学院, 湖北武汉, 推免直博 
-- *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科
+- *2019.09 - 2023.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 兰卡斯特大学 通信与计算机学院, 博士
+- *2017.09 - 2018.12*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 纽卡斯尔大学 计算机学院学院, 硕士  
+- *2013.09 - 2017.07*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 利物浦大学 计算机学院, 本科
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -171,3 +169,4 @@ redirect_from:
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+
