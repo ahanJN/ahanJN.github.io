@@ -25,7 +25,7 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "齐鲁工业大学 <br>（山东省科学院）"
   location         : "山东 济南"
-  employer         : #"Qilu University of Techonology (Shandong Academy of Sciences)"
+  employer         : "http://jsxb.scsc.cn/introlist_76/805.html" #"Qilu University of Techonology (Shandong Academy of Sciences)"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=zKutxzgAAAAJ"
   email            : "shuohan.liu@qlu.edu.cn"
@@ -161,6 +161,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
