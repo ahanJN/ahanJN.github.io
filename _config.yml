@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "刘朔晗"
-description              : "电磁无损检测"
+description              : "研究员, 硕士生导师 <br>泰山学者青年专家"
 repository               : "ahanJN/ahanJN.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -161,4 +161,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
