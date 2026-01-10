@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "唐健"
+title                    : "刘朔晗"
 description              : "电磁无损检测"
-repository               : "tangjyan/tangjyan.github.io"
+repository               : "ahanJN/ahanJN.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "唐健"
+  name             : "刘朔晗"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "华中科技大学"
-  location         : "湖北 武汉"
-  employer         : #"Hefei General Machinery Research Institute"
+  bio              : "齐鲁工业大学（山东省科学院）"
+  location         : "山东 济南"
+  employer         : #"Qilu University of Techonology (Shandong Academy of Sciences)"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
-  email            : "tangj@hust.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
+  googlescholar    : "https://scholar.google.com/citations?user=zKutxzgAAAAJ"
+  email            : "shuohan.liu@qlu.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Shuohan-Liu"
   uri              : 
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tangjyan"
+  github           : "ahanJN"
   google_plus      :
   keybase          :
   instagram        :
@@ -161,3 +161,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
