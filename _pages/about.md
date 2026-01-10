@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我毕业于英国兰卡斯特大学，师从IET Fellow倪强教授，深度参与多项EPSRC项目，期间获得2022年度国家优秀自费留学生奖学金（A类）。随后于2022年底至2024年初在加入英国华威大学副校长Carsten Maple教授领衔的网络安全团队，担任Research Fellow。2024年初返回兰卡斯特大学担任Senior Research Associate。2024年全职加入山东省计算中心（国家超级计算济南中心），齐鲁工业大学（山东省科学院），入选山东省泰山学者青年专家计划，获聘齐鲁工业大学（山东省科学院）齐鲁青创学者，目前主持多项纵向项目，包裹国家自然科学基金青年科学基金项目（C类）及山东省自然科学基金青年面上项目。在学术成果方面，研究聚焦于新能源汽车充电服务优化及场景迭代，包括车-车互充、车网互动及源网荷储一体化研究。于近五年在Sustainable Cities and Society、Energy、IEEE Transactions on Transportation Electrification等知名期刊发表论文20余篇，h-index为11，授权发明专利7项，参与制定国家标准3项，登记软件著作权1部，出版《智能网联汽车能量管理理论与应用》专著1部，并参编中英文教材各1部。
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+我毕业于英国兰卡斯特大学，师从IET Fellow倪强教授，深度参与多项EPSRC项目，期间获得2022年度国家优秀自费留学生奖学金（A类）。随后于2022年底至2024年初在加入英国华威大学副校长Carsten Maple教授领衔的网络安全团队，担任Research Fellow。2024年全职加入山东省计算中心（国家超级计算济南中心），齐鲁工业大学（山东省科学院），入选山东省泰山学者青年专家计划，获聘齐鲁工业大学（山东省科学院）齐鲁青创学者，目前主持多项纵向项目，包裹国家自然科学基金青年科学基金项目（C类）及山东省自然科学基金青年面上项目。在学术成果方面，研究聚焦于新能源汽车充电服务优化及场景迭代，包括车-车互充、车网互动及源网荷储一体化研究。于近五年在Sustainable Cities and Society、Energy、IEEE Transactions on Transportation Electrification等知名期刊发表论文20余篇，h-index为11，授权发明专利7项，参与制定国家标准3项，登记软件著作权1部，并参编中英文教材各1部。
+ <a href='https://scholar.google.com/citations?user=zKutxzgAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域研究聚焦于新能源汽车充电服务优化及场景迭代，包括：
 - 充电服务协同优化
@@ -27,6 +27,14 @@ redirect_from:
 - 异步充电协同控制
 - 车-网互动协同优化
 - “源网荷储”一体化协同运行
+
+<span class='anchor' id='-gzsx'></span>
+
+# 💻 工作
+- *2024.08 - 至今*, 齐鲁工业大学（山东省科学院） 山东省计算中心（国家超算济南中心）, 研究员
+- *2024.01 - 2024.08*, 兰卡斯特大学, 资深副研究员
+- *2022.12 - 2024.01*, 华威大学, 研究员
+- *2021.08 - 2022.05*, 武汉大学, 外聘科研助理
 
 <span class='anchor' id='-xl'></span>
 
@@ -152,9 +160,8 @@ redirect_from:
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 荣誉奖项
-- *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
-- *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
-- *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`  
+- *2023.01* 获得 山东省泰山学者青年专家  
+- *2023.06* 获得 2022年度国家优秀自费留学生奖学金 
 
 <span class='anchor' id='-xshy'></span>
 
@@ -169,4 +176,5 @@ redirect_from:
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+
 
