@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "刘朔晗"
-description              : "齐鲁工业大学（山东省科学院）研究员<br>硕士生导师 · 山东省泰山学者青年专家"
+description              : "硕士生导师<br>山东省泰山学者青年专家<br>齐鲁工业大学（山东省科学院）研究员"
 repository               : "ahanJN/ahanJN.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,14 +23,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "刘朔晗"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "齐鲁工业大学（山东省科学院）研究员<br>硕士生导师 · 山东省泰山学者青年专家"
+  bio              : "硕士生导师<br>山东省泰山学者青年专家<br>齐鲁工业大学（山东省科学院）研究员"
   location         : "中国 · 山东济南"
   employer         : #"Qilu University of Techonology (Shandong Academy of Sciences)"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=zKutxzgAAAAJ"
   email            : "shuohan.liu@qlu.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Shuohan-Liu"
-  uri              : "http://jsxb.scsc.cn/introlist_76/805.html"
+  uri              : "http://shuohan.e.cn.vc/"
   bitbucket        :
   codepen          :
   dribbble         :
